@@ -1,0 +1,6 @@
+*.pyc
+config.ini
+.ftpconfig
+.ftpignore
+venv/
+__pycache__/
