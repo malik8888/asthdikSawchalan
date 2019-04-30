@@ -3,7 +3,7 @@
 
 from snipsTools import *
 from RelaySwitch import RelaySwitch
-from SHT31 import SHT31
+from MPU6050 import SHT31
 from SnipsClients import SnipsMPU
 
 VERSION = '0.3.0'
